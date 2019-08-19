@@ -1,13 +1,4 @@
-.align{
-    text-align: center;
-    padding-bottom: 30px;
-}
-.demo{
-    font-weight: 500;
-}
-.form{
-    text-align: center;
-}
-.padding{
-    align-content: center;
+.diamond {
+    height: 30px !important;
+    width: 30px !important;
 }
